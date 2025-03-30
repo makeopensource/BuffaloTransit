@@ -30,3 +30,9 @@ To run the project you must first install android studio, and either the emulato
 
 I haven't done this; I think that you need to be running xcode to push apps to your phone or to use apple's emulator. However, if you have those, try
 - `npx expo run:ios`
+
+## Project Structure: 
+- `app`: contains the page files. `index.tsx` is the main landing page of the app
+- `assets`: any asset files
+- `components`: self-contained graphical pieces which are used to build page views.
+- `scripts`: js scripts used by the app
