@@ -25,6 +25,7 @@ in the project directory:
 To run the project you must first install android studio, and either the emulator tools or connect your android phone. 
 - `npx expo run:android`
 
+
 **IOS:**
 
 I haven't done this; I think that you need to be running xcode to push apps to your phone or to use apple's emulator. However, if you have those, try
